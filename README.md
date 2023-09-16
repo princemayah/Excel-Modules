@@ -18,8 +18,6 @@ Explore the following modules, each designed to tackle specific tasks and scenar
 - **Module 2**: Klapore Engineering
 - **Module 3**: Manola Department Stores
 
-Discover the power of Excel and unlock its potential by delving into the details of each module below.
-
 ## Features
 These modules use a comprehensive set of features, including:
 
